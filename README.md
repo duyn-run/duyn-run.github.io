@@ -6,3 +6,5 @@
 * [expense-tracker](https://duyn-run.github.io/expense-tracker/)
 # Demo Shopping
 * [shopping-app](https://duyn-run.github.io/shopping-list/)
+# Demo Chat
+* [chat-app](https://duyn-run.github.io/chat-app/)
