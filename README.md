@@ -4,5 +4,5 @@
 * [quiz-app](https://duyn-run.github.io/quizapp/)
 # Demo expense-tracker
 * [quiz-app](https://duyn-run.github.io/expense-tracker/)
-* # Demo Meals
+# Demo Meals
 * [quiz-app](https://duyn-run.github.io/meals/)
