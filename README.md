@@ -7,4 +7,4 @@
 # Demo Shopping
 * [shopping-app](https://duyn-run.github.io/shopping-list/)
 # Demo Chat
-* [chat-app](https://duyn-run.github.io/chat-app/)
+* [chat-app](https://duyn-run.github.io/chat_app_new/)
